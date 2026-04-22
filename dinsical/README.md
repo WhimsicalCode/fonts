@@ -66,7 +66,11 @@ font-feature-settings: "pnum" 1;
 SIL Open Font License, Version 1.1 — see [OFL.txt](../OFL.txt).
 
 Copyright © 2026 Whimsical, Inc.
+
 Copyright © 2023–2024 Stefan Peev  
+
 Copyright © 2021–2025 Bert Driehuis  
+
 Copyright © 2019 Altinn  
+
 Copyright © 2017 Datto Inc.
