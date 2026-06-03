@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-03: Dinsical 1.026
+
+- Fixed line height (120%) for variable TTF font 
+
 ## 2026-05-13: Dinsical 1.025
 
 - Improved sizing and alignment for diacritical marks
